@@ -5,8 +5,8 @@ This project employs machine learning to predict heart disease risk based on hea
 Key Features
 1) Data Preprocessing: Ensuring the quality and readiness of data through meticulous cleaning and preparation.
 2) Feature Selection: Identifying the most significant health indicators contributing to heart disease risk.
-3) Model Training: Utilizing algorithms such as Logistic Regression, Decision Trees, and Random Forests to develop robust predictive models.
-4) Model Evaluation: Assessing model performance using metrics like accuracy, precision, recall, and F1-score.
+3) Model Training: Utilizing algorithms such as Logistic Regression to develop robust predictive models.
+4) Model Evaluation: Assessing model performance using metrics like accuracy score.
 5) User Interface: Providing an intuitive interface for all to input health data and obtain predictions.
 
 Technologies Used
